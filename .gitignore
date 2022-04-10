@@ -1,7 +1,5 @@
 /node_modules/
-/client/node_modules/
 /logs/
-/uploads/
 .env
 /config
 .env.text
